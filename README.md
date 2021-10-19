@@ -1,6 +1,6 @@
 # Differentiable Equilibrium Computation with Decision Diagrams for Stackelberg Models of Combinatorial Congestion Games
 
-This repository is the official implementation of the paper "Differentiable Equilibrium Computation with Decision Diagrams for Stackelberg Models of Combinatorial Congestion Games" accepted at [Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS2021)](https://nips.cc/Conferences/2021).
+This repository is the official implementation of the paper "Differentiable Equilibrium Computation with Decision Diagrams for Stackelberg Models of Combinatorial Congestion Games" accepted at [Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS2021)](https://nips.cc/Conferences/2021). Full version of the paper is available at [arXiv](https://arxiv.org/abs/2110.01773).
 
 ## Requirements
 
